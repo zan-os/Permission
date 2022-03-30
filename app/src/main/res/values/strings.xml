@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Permission</string>
+    <string name="load_image_from_internet">load image from internet</string>
+    <string name="request_location_permission">request location permission</string>
+    <string name="open_in_gmap">Open in Gmap</string>
+    <string name="show_snackbar">show snackbar</string>
+</resources>
